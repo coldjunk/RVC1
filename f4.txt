@@ -1,10 +1,9 @@
 f4.1
-f4.2
-f4.3
 f4.4
-f4.5 Comprehensive up-to-date news 
+f4.5 up-to-date DETAILED news delivered
 f4.6 One of the most cited and 
 f4.7
 f4.8
+line added here
 f4.9
 f4.10
